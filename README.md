@@ -8,7 +8,7 @@
 - 🇺🇸TOEIC 905
 - 🇨🇳HSK 4級 (6級が最難)
 - 💻AtCoder 水色
-
+![atcoder_history](image/atcoder_history.png)
 
 # 🏆受賞歴等
 - 東大院TMI 専攻長賞
